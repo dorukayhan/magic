@@ -1,1 +1,1 @@
-What you see here is an implementation of RSA with a backdoor. The backdoor is on [line TODO](https://github.com/dorukayhan/magic/blob/master/rsa%20but%20there's%20a%20backdoor/src/TheWholeThing.java#L41) where the key generator uses a composite number to calculate the modulus.
+What you see here is an implementation of RSA with a backdoor. The backdoor is on [line 41](https://github.com/dorukayhan/magic/blob/master/rsa%20but%20there's%20a%20backdoor/src/TheWholeThing.java#L41) where the key generator uses a composite number to calculate the modulus.
